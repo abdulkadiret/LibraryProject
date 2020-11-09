@@ -4,4 +4,6 @@ public class Test1 {
 	// more comment
 //abdulkadiret changes
 	// Change from Akey
+	
+	//this is a Krzysztof's test code 1.1
 }
